@@ -5,3 +5,4 @@ Display current directory contents in long format numerically and hidden file
 Create a script that creates a directory
 Betty in my first directory
 Delete the file betty
+Delete the directory my_first_directory that is in the /tmp directory
